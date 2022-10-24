@@ -34,10 +34,15 @@ Castellano y catalán --> Nativo.
 
 Inglés --> Nivel B2 (First Certificate)
 
+Preparando C1 (Advanced Certificate)
+
 
 # Contacto 
-+34 644 444 444
+<details><summary>Información personal</summary>
+<p>
+  
+ #### +34 644 444 444
+ 
 emailprofesional@gmail.com
-Calle Predeterminada 22
 
-Preparando C1 (Advanced Certificate)
+Calle Predeterminada 22
