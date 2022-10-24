@@ -41,8 +41,8 @@ Preparando C1 (Advanced Certificate)
 <details><summary>Información personal</summary>
 <p>
   
- #### +34 644 444 444
+- +34 644 444 444
  
-emailprofesional@gmail.com
+- emailprofesional@gmail.com
 
-Calle Predeterminada 22
+- Calle Predeterminada 22
